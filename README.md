@@ -23,7 +23,7 @@ A simple and intuitive weather application built using React, designed to showca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Martijn-Booij/weather-app.git
    cd weather-app
    ```
 
@@ -32,7 +32,7 @@ A simple and intuitive weather application built using React, designed to showca
    npm install
    ```
 
-3. Get an API key from the [OpenWeatherMap API](https://openweathermap.org/) (or your chosen weather API).
+3. Get an API key from the [OpenWeatherMap API](https://openweathermap.org/).
 
 4. Create a `.env` file in the root directory and add your API key:
    ```env
